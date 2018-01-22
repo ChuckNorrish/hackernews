@@ -1,0 +1,338 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App snapshots 1`] = `
+<div
+  className="page"
+>
+  <div
+    className="interactions"
+  >
+    <form
+      onSubmit={[Function]}
+    >
+      Search
+       
+      <input
+        onChange={[Function]}
+        type="text"
+        value="redux"
+      />
+      <button
+        className=""
+        onClick={undefined}
+      >
+        Search
+      </button>
+    </form>
+  </div>
+  <div>
+    <div
+      className="table"
+    >
+      <div
+        className="table-header"
+      >
+        <span
+          style={
+            Object {
+              "width": "40%",
+            }
+          }
+        >
+          <button
+            className="button-inline"
+            onClick={[Function]}
+          >
+            Title
+          </button>
+        </span>
+        <span
+          style={
+            Object {
+              "width": "30%",
+            }
+          }
+        >
+          <button
+            className="button-inline"
+            onClick={[Function]}
+          >
+            Author
+          </button>
+        </span>
+        <span
+          style={
+            Object {
+              "width": "10%",
+            }
+          }
+        >
+          <button
+            className="button-inline"
+            onClick={[Function]}
+          >
+            Comments
+          </button>
+        </span>
+        <span
+          style={
+            Object {
+              "width": "10%",
+            }
+          }
+        >
+          <button
+            className="button-inline"
+            onClick={[Function]}
+          >
+            Points
+          </button>
+        </span>
+        <span
+          style={
+            Object {
+              "width": "10%",
+            }
+          }
+        >
+          Archive
+        </span>
+      </div>
+    </div>
+  </div>
+  <div
+    className="interactions"
+  >
+    <div>
+      <i
+        className="fa fa-pulse fa-3x fa-fw fa-spinner"
+      />
+      <span
+        className="sr-only"
+      >
+        Loading...
+      </span>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Search snapshots 1`] = `
+<form
+  onSubmit={undefined}
+>
+  Search
+   
+  <input
+    onChange={undefined}
+    type="text"
+    value={undefined}
+  />
+  <button
+    className=""
+    onClick={undefined}
+  >
+    Search
+  </button>
+</form>
+`;
+
+exports[`Table snapshots 1`] = `
+<div
+  className="table"
+>
+  <div
+    className="table-header"
+  >
+    <span
+      style={
+        Object {
+          "width": "40%",
+        }
+      }
+    >
+      <button
+        className="button-inline button-active"
+        onClick={[Function]}
+      >
+        Title
+      </button>
+    </span>
+    <span
+      style={
+        Object {
+          "width": "30%",
+        }
+      }
+    >
+      <button
+        className="button-inline"
+        onClick={[Function]}
+      >
+        Author
+      </button>
+    </span>
+    <span
+      style={
+        Object {
+          "width": "10%",
+        }
+      }
+    >
+      <button
+        className="button-inline"
+        onClick={[Function]}
+      >
+        Comments
+      </button>
+    </span>
+    <span
+      style={
+        Object {
+          "width": "10%",
+        }
+      }
+    >
+      <button
+        className="button-inline"
+        onClick={[Function]}
+      >
+        Points
+      </button>
+    </span>
+    <span
+      style={
+        Object {
+          "width": "10%",
+        }
+      }
+    >
+      Archive
+    </span>
+  </div>
+  <div
+    className="table-row"
+  >
+    <span
+      style={
+        Object {
+          "width": "40%",
+        }
+      }
+    >
+      <a
+        href={undefined}
+      >
+        1
+      </a>
+    </span>
+    <span
+      style={
+        Object {
+          "width": "30%",
+        }
+      }
+    >
+       
+      1
+    </span>
+    <span
+      style={
+        Object {
+          "width": "10%",
+        }
+      }
+    >
+       
+      1
+    </span>
+    <span
+      style={
+        Object {
+          "width": "10%",
+        }
+      }
+    >
+       
+      2
+       
+    </span>
+    <span
+      style={
+        Object {
+          "width": "10%",
+        }
+      }
+    >
+      <button
+        className="button-inline"
+        onClick={[Function]}
+      >
+        Dismiss
+      </button>
+    </span>
+  </div>
+  <div
+    className="table-row"
+  >
+    <span
+      style={
+        Object {
+          "width": "40%",
+        }
+      }
+    >
+      <a
+        href={undefined}
+      >
+        2
+      </a>
+    </span>
+    <span
+      style={
+        Object {
+          "width": "30%",
+        }
+      }
+    >
+       
+      2
+    </span>
+    <span
+      style={
+        Object {
+          "width": "10%",
+        }
+      }
+    >
+       
+      1
+    </span>
+    <span
+      style={
+        Object {
+          "width": "10%",
+        }
+      }
+    >
+       
+      2
+       
+    </span>
+    <span
+      style={
+        Object {
+          "width": "10%",
+        }
+      }
+    >
+      <button
+        className="button-inline"
+        onClick={[Function]}
+      >
+        Dismiss
+      </button>
+    </span>
+  </div>
+</div>
+`;
